@@ -1,9 +1,13 @@
-### Hi there 👋
+### Welcome to my homepage 👋
 
 <!--
 **Waylon06/Waylon06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+### I'm Waylon Wong
+
+A student majoring in computer science and technology
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
