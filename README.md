@@ -2,7 +2,7 @@
 
 ### I'm Waylon Wong ✨
 
--🔭 A student majoring in computer science and technology ✌️
+- 🔭 A student majoring in computer science and technology ✌️
 - 💬 Ask me about my projects or some funny questions contact me with [waylon06@qq.com](mailto:waylon06@qq.com)
 
 
