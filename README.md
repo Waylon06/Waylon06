@@ -2,7 +2,10 @@
 
 ### I'm Waylon Wong ✨
 
-✨ A student majoring in computer science and technology ✨
+-🔭 A student majoring in computer science and technology ✌️
+- 💬 Ask me about my projects or some funny questions contact me with [waylon06@qq.com](mailto:waylon06@qq.com)
+
+
 
 <!--
 **Waylon06/Waylon06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
