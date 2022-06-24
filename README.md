@@ -8,6 +8,8 @@
 
 - 😄I'm very happy to learn new knowledge or learn about funny project , if u have good project , u can contact me and we can cooperate to complete it 👍
 
+- 😁I like make new friends, let's improve our programming ability
+
 
 
 <!--
