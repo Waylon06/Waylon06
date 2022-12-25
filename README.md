@@ -26,3 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我的博客：[blog](https://waylon06.github.io/)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,md,java,spring,maven,mysql,vue,git,github,idea,vscode)](https://skillicons.dev)
