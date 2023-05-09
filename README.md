@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 我的博客：[blog](https://waylon06.github.io/)
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,md,java,spring,maven,mysql,vue,git,github,idea,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,nodejs,vite,webpack,md,java,spring,maven,mysql,vue,git,github,idea,vscode,androidstudio,instagram,postman,linux,nginx,powershell)
