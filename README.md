@@ -30,3 +30,13 @@ Here are some ideas to get you started:
 我的博客：[blog](https://waylon06.github.io/)
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,nodejs,vite,webpack,md,java,spring,maven,mysql,vue,git,github,idea,vscode,androidstudio,instagram,postman,linux,nginx,powershell)
+
+<div>
+<a href="https://github.com/zhoufanglu">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=waylon06&show_icons=true&theme=radical"/>
+</a>
+
+<a href="https://github.com/zhoufanglu">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waylon06&layout=compact&theme=Gradient&bg_color=30,ff758c,e4efe9&text_color=black&title_color=29323c"/>
+</a>
+</div>  
